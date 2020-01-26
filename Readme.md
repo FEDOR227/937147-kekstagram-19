@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Федор Колтырин](https://up.htmlacademy.ru/javascript/19/user/937147).
-* Наставник: `Неизвестно`.
+* Наставник: `Я сам`.
 
 ---
 
